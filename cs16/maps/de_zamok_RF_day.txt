@@ -1,0 +1,22 @@
+de_zamok_RF_day -  Bomb/Defuse
+by ~Smith~
+
+Counter-Terrorists: Prevent Terrorists
+from break feast in the main hall of
+castle or tower barrel.
+Team members must defuse any bombs 
+that threaten targeted areas.
+
+Terrorists: The Terrorist carrying the
+C4 must destroy one of the targets. 
+
+
+Background: There are 2 targets 
+in this mission.
+
+Other Notes: MADE IN RUSSIA!
+
+Credits:
+CS1.6 version by ~Smith~
+
+(Press FIRE to continue)
