@@ -1,0 +1,10 @@
+models/TMODELS/mage5.mdl
+models/TMODELS/magier.mdl
+models/TMODELS/vehicle/moby_porsche.mdl
+models/TMODELS/Vehicle/ff_supra.mdl
+models/TMODELS/halla_light1.mdl
+models/TMODELS/cc_Zaunborder_05.mdl
+models/TMODELS/ledgeGreen.mdl
+models/TMODELS/ledge1.mdl
+models/TMODELS/GameCfg.wc
+maps/ctf_ThirdStreet.bsp
